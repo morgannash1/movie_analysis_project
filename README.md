@@ -6,7 +6,7 @@
 
 # Exploratory Data Analysis
 
-# Conclusion
+# Conclusions
 
 ## Limitations
 
