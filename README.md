@@ -1,3 +1,6 @@
+# Movie Analysis Project
+**Author**: [Morgan Nash](mailto:morganmichellenash@gmail.com)
+
 # Business Understanding
 
 # Data Understanding 
