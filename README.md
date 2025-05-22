@@ -54,7 +54,7 @@ See the full analysis in the [Jupyter Notebook](notebook.ipynb)
 ```
 ├── images
 ├── README.MD
-├── aviation.accidents.presentation.pdf
-└── aviationaccidentanalysis.ipynb
+├── movie_analysis_presentation.pdf
+└── notebook.ipynb
 
 ```
