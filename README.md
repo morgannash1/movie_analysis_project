@@ -42,3 +42,19 @@ The data provided for this project comes from various sources and comes in diffe
 ## Recommendations
 
 ## Next Steps
+
+
+
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](notebook.ipynb) 
+
+## Repository Structure
+
+```
+├── images
+├── README.MD
+├── aviation.accidents.presentation.pdf
+└── aviationaccidentanalysis.ipynb
+
+```
