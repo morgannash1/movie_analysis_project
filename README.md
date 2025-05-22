@@ -26,16 +26,22 @@ The data provided for this project comes from various sources and comes in diffe
 ### Visualizations & Findings
 ![common movie genres](images/common_movie_gen.png)
 
+Genre: 
+![top movie genre combos](images/top_movie_gen_comb.png)
+![top movie genres separated](images/top_movie_gen_sep.png)
+
+Production Budget:
 ![average profit by budget group profitable](images/avg_prof_by_bud_group_prof.png)
-![average profit by budget group](images/avg_prof_by_bud_group.png)
-![average profit by month](images/avg_prof_by_month.png)
 ![average profit margin](images/avg_prof_margin.png)
 
+When to Release:
+![average profit by month](images/avg_prof_by_month.png)
+
+Studio:
 ![top 5 studios average profit](images/top_5_studio_avg_prof.png)
 ![top 5 studios total profit](images/top_5_studios_by_total_prof.png)
 
-![top movie genre combos](images/top_movie_gen_comb.png)
-![top movie genres separated](images/top_movie_gen_sep.png)
+
 
 # Conclusions
 
