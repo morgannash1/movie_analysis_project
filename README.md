@@ -20,27 +20,27 @@ The data provided for this project comes from various sources and comes in diffe
 **The Numbers** focuses on the financial performance of movies, tracking box office gross, budgets, and profitability.
 
 
-### Visualizations & Analysis
+# Visualizations & Analysis
 ![common movie genres](images/common_movie_gen.png)
 
-1. Which movie genres receive the highest ratings?
+#### 1. Which movie genres receive the highest ratings?
    
 ![top movie genre combos](images/top_movie_gen_comb.png)
 
 ![top movie genres separated](images/top_movie_gen_sep.png)
 
 
-2. Is there a trend in the relationship between production budget and profit?
+#### 2. Is there a trend in the relationship between production budget and profit?
    
 ![average profit by budget group profitable](images/avg_prof_by_bud_group_prof.png)
 
 ![average profit margin](images/avg_prof_margin.png)
 
 
-3. When is the best time of year to release a movie? 
+#### 3. When is the best time of year to release a movie? 
 ![average profit by month](images/avg_prof_by_month.png)
 
-4. What studios make the most money? 
+#### 4. What studios make the most money? 
 ![top 5 studios average profit](images/top_5_studio_avg_prof.png)
 
 ![top 5 studios total profit](images/top_5_studios_by_total_prof.png)
